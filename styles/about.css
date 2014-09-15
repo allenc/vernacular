@@ -1,0 +1,23 @@
+body {
+  padding-top:50px;
+}
+.navbar .navbar-inverse .navbar-fixed-top {
+	background-color:#2d3e33;
+}
+#content {
+  text-align:center;
+  padding:80px 15px;
+}
+#content h1 {
+  font-size:50px;
+  font-weight:500;
+}
+
+#lang-container {
+  position: relative;
+  margin: 0 auto;
+}
+p.description {
+	font-size:20px;
+	text-align:center;
+}

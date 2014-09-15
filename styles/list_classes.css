@@ -1,0 +1,18 @@
+#translate {
+    width: 90%;
+    height: 8%;
+    padding:12px;
+    font-size: 12pt;
+    font-family:Arial,Helvetica;
+}
+#target {
+  border:2px solid;
+  border-radius:15px;
+  -moz-border-radius:15px;
+  -webkit-border-radius:15px;
+  border-color:green;
+  padding:13px;
+  font-family:Arial,Helvetica;
+  font-size:13pt;
+  font-weight:500;
+}
