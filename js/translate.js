@@ -27,7 +27,6 @@
 
       var newScript = document.createElement('script');
       newScript.type = 'text/javascript';
-      var source = 'https://www.googleapis.com/language/translate/v2?key=AIzaSyA-0Ph3L8Fha0sqndH11CNaIBdHRpsWL0I&source=' +chatroomLanguage +'&target=' +userLanguage +'&callback=translateText&q=' + selectedtext;
       newScript.src = source;
       document.getElementsByTagName('head')[0].appendChild(newScript);
   }
